@@ -1,0 +1,7 @@
+C:\Users\TEMP.FTN.000.001\source\repos\Vezbe 2\Vezbe 2\bin\Debug\Vezbe 2.exe.config
+C:\Users\TEMP.FTN.000.001\source\repos\Vezbe 2\Vezbe 2\bin\Debug\Vezbe 2.exe
+C:\Users\TEMP.FTN.000.001\source\repos\Vezbe 2\Vezbe 2\bin\Debug\Vezbe 2.pdb
+C:\Users\TEMP.FTN.000.001\source\repos\Vezbe 2\Vezbe 2\obj\Debug\Vezbe 2.csprojAssemblyReference.cache
+C:\Users\TEMP.FTN.000.001\source\repos\Vezbe 2\Vezbe 2\obj\Debug\Vezbe 2.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.FTN.000.001\source\repos\Vezbe 2\Vezbe 2\obj\Debug\Vezbe 2.exe
+C:\Users\TEMP.FTN.000.001\source\repos\Vezbe 2\Vezbe 2\obj\Debug\Vezbe 2.pdb
